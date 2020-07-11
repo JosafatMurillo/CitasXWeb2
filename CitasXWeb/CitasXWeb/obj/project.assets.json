@@ -12532,6 +12532,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.AspNetCore.App >= 2.1.1",
+      "Microsoft.EntityFrameworkCore >= 2.1.14",
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.1.14",
       "Microsoft.NETCore.App >= 2.1.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.1.9"
@@ -12544,11 +12545,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\INSPIRON 5577\\Desktop\\Proyecto Programacion Segura\\CitasXWeb\\CitasXWeb\\CitasXWeb\\CitasXWeb.csproj",
+      "projectUniqueName": "C:\\Users\\INSPIRON 5577\\Desktop\\Proyecto Programacion Segura\\CitasXWeb Controllers\\CitasXWeb\\CitasXWeb\\CitasXWeb\\CitasXWeb.csproj",
       "projectName": "CitasXWeb",
-      "projectPath": "C:\\Users\\INSPIRON 5577\\Desktop\\Proyecto Programacion Segura\\CitasXWeb\\CitasXWeb\\CitasXWeb\\CitasXWeb.csproj",
+      "projectPath": "C:\\Users\\INSPIRON 5577\\Desktop\\Proyecto Programacion Segura\\CitasXWeb Controllers\\CitasXWeb\\CitasXWeb\\CitasXWeb\\CitasXWeb.csproj",
       "packagesPath": "C:\\Users\\INSPIRON 5577\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\INSPIRON 5577\\Desktop\\Proyecto Programacion Segura\\CitasXWeb\\CitasXWeb\\CitasXWeb\\obj\\",
+      "outputPath": "C:\\Users\\INSPIRON 5577\\Desktop\\Proyecto Programacion Segura\\CitasXWeb Controllers\\CitasXWeb\\CitasXWeb\\CitasXWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12583,6 +12584,10 @@
             "target": "Package",
             "version": "[2.1.1, )",
             "autoReferenced": true
+          },
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[2.1.14, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
